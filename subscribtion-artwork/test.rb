@@ -1,17 +1,13 @@
 #!/usr/bin/ruby
 
-result = []
+array = []
 ARGV.each do |arg|
   File.open(arg, "r") do |file|
     file.each_line do |line|
-      array.push(line)
-    end 
-   
-    array.each do |line|
-      line.gsub!(/(^_+)/, "###################################")
+      array.push(line.scan(/xmlUrl="(\S+)"/))
     end
     
-    puts result
+    puts array
   end
 end 
 
