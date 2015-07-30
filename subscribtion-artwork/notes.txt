@@ -1,0 +1,3 @@
+xmlUrl="(\S*)"
+itunes:image href="(\S*)"
+

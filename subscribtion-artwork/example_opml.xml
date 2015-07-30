@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>Pocket Casts Feeds</title>
+  </head>
+  <body>
+    <outline text="feeds">
+      <outline type="rss" text="WRINT: Die Wrintheit" xmlUrl="http://feeds.feedburner.com/DieWrintheit" />
+      <outline type="rss" text="extra 3 HQ" xmlUrl="http://www.ndr.de/fernsehen/sendungen/extra_3/video-podcast/extradrei196_version-hq.xml" />
+      <outline type="rss" text="Neues vom Känguru" xmlUrl="http://www.fritz.de/media/podcasts/serien/neues_vom_kaenguru_podcast.feed.podcast.xml" />
+      <outline type="rss" text="Geschichte und Gespräche" xmlUrl="http://geschichte-und-gespraeche.de/feed/mp3/" />
+      <outline type="rss" text="Das Tagebuch des täglichen Wahnsinns - BAYERN 3" xmlUrl="http://www.br-online.de/podcast/tagebuch-des-taeglichen-wahnsinns/cast.xml" />
+      <outline type="rss" text="Grünwald Freitagscomedy - Bayerisches Fernsehen" xmlUrl="http://www.br-online.de/podcast/gruenwald-freitagscomedy/cast.xml" />
+      <outline type="rss" text="REPORT MAINZ" xmlUrl="http://www1.swr.de/podcast/xml/das-erste/report/report.xml" />
+      <outline type="rss" text="Software Engineering Radio - The Podcast for Professional Software Developers" xmlUrl="http://feeds.feedburner.com/se-radio" />
+      <outline type="rss" text="Glaubenssache" xmlUrl="http://glaubenssache.info/feed/mp3/" />
+      <outline type="rss" text="Quarks &amp; Co - zum Mitnehmen" xmlUrl="http://podcast.wdr.de/quarks.xml" />
+      <outline type="rss" text="Exponiert" xmlUrl="http://www.exponiert.berlin/feed/m4a/" />
+      <outline type="rss" text="Erscheinungsraum" xmlUrl="http://erscheinungsraum.de/feed/mp3/" />
+      <outline type="rss" text="NERDHUB Netzcast" xmlUrl="http://magazin.nerdhub.de/feed/nerdhub_netzcast/" />
+      <outline type="rss" text="Angegraben - Der archäologische Podcast" xmlUrl="http://buddler.atria.uberspace.de/?feed=angegraben" />
+      <outline type="rss" text="Tagesschau in 100 Sekunden (960x544)" xmlUrl="http://www.tagesschau.de/export/video-podcast/webl/tagesschau-in-100-sekunden/" />
+      <outline type="rss" text="WRINT: Holger ruft an" xmlUrl="http://feeds.feedburner.com/WrintHolgerRuftAn" />
+      <outline type="rss" text="Ö1 Betrifft Geschichte" xmlUrl="http://static.orf.at/podcast/oe1/oe1_geschichte.xml" />
+      <outline type="rss" text="Schmalzstullenministerium" xmlUrl="http://www.schmalzstullenministerium.de/feed/mp4/" />
+      <outline type="rss" text="Stil-Epochen - ARD-alpha" xmlUrl="http://www.br-online.de/podcast/stil-epochen/cast.xml" />
+      <outline type="rss" text="WRINT » Flaschen" xmlUrl="http://feeds.feedburner.com/WrintFlaschen" />
+      <outline type="rss" text="Nicolas Semak" xmlUrl="http://nicolassemak.de/feed/mp3/" />
+      <outline type="rss" text="Alles was der Fall ist" xmlUrl="http://www.wasderfallist.de/audio/awdfi.xml" />
+      <outline type="rss" text="SWR2 Tandem" xmlUrl="http://www1.swr.de/podcast/xml/swr2/tandem.xml" />
+      <outline type="rss" text="Wikigeeks (m4a Audio Feed)" xmlUrl="http://wikigeeks.de/feed/itunes/" />
+      <outline type="rss" text="Better at English – Listen and Learn English" xmlUrl="http://feeds.feedburner.com/BetterAtEnglish" />
+      <outline type="rss" text="Dittsche - Podcast - zum Mitnehmen" xmlUrl="http://podcast.wdr.de/dittsche.xml" />
+      <outline type="rss" text="Karlsdialoge - Gespräche aus der Hochschule" xmlUrl="http://feeds.feedburner.com/karlsdialoge/" />
+      <outline type="rss" text="Geschichte der Deutschen Podcast" xmlUrl="http://rss.acast.com/geschichtederdeutschen" />
+      <outline type="rss" text="In trockenen Büchern" xmlUrl="http://in-trockenen-buechern.de/feed/mp3/" />
+      <outline type="rss" text="Feuer, Glut und Herzblut - Der Grillpodcast" xmlUrl="http://www.feuerglutundherzblut.de/feed/aac/" />
+      <outline type="rss" text="Material" xmlUrl="http://www.relay.fm/material/feed" />
+      <outline type="rss" text='ZDF - "Frag den Lesch"' xmlUrl="http://www.zdf.de/ZDFmediathek/podcast/1167200?view=podcast" />
+      <outline type="rss" text="31C3 Recordings" xmlUrl="http://r3c.firtz.org/31c3/mv4-hd" />
+      <outline type="rss" text="Das HE-MANische Quartett" xmlUrl="http://quartett.planeteternia.org/rssfeed.xml" />
+      <outline type="rss" text="Logbuch:Netzpolitik" xmlUrl="http://feeds.feedburner.com/logbuch-netzpolitik" />
+      <outline type="rss" text="Resonator" xmlUrl="https://resonator-podcast.de/?feed=m4a" />
+      <outline type="rss" text="Sendung mit der Maus - zum Mitnehmen" xmlUrl="http://podcast.wdr.de/maus.xml" />
+      <outline type="rss" text="Die Sondersendung" xmlUrl="http://feeds.feedburner.com/die-sondersendung-m4a" />
+      <outline type="rss" text="Elektrischer Reporter - Phase III" xmlUrl="http://www.elektrischer-reporter.de/index.php/site/rss_ipod/" />
+      <outline type="rss" text="History of Alchemy Podcast" xmlUrl="http://rss.acast.com/historyofalchemy" />
+      <outline type="rss" text="omega tau » Podcast Feed" xmlUrl="http://omegataupodcast.net/?feed=podcast" />
+      <outline type="rss" text="Schwarzwald-Podcast" xmlUrl="http://www.schwarzwald-podcast.de/feed/podcast/" />
+      <outline type="rss" text="badnerlieb podcast - badnerlieb" xmlUrl="http://feedpress.me/badnerliebpodcast" />
+      <outline type="rss" text="KonScience" xmlUrl="http://www.konscience.de/feed/aac/" />
+      <outline type="rss" text="NDR Info - Streitkräfte und Strategien" xmlUrl="http://www.ndr.de/podcast/podcast2998.xml" />
+      <outline type="rss" text="The Lunatic Fringe" xmlUrl="http://feeds.feedburner.com/TheLunaticFringe" />
+      <outline type="rss" text="Küchenradio" xmlUrl="http://feeds.feedburner.com/Kuechenradioorg" />
+      <outline type="rss" text='ZDF - "Neues aus der Anstalt"' xmlUrl="http://content.zdf.de/podcast/zdf_neuada/neuada_v.xml" />
+      <outline type="rss" text="Troja Alert" xmlUrl="http://trojaalert.bildungsangst.de/feed/TRO/mp3/" />
+      <outline type="rss" text="Video-Podcast: Nachgefragt bei Kretschmann" xmlUrl="http://www.baden-wuerttemberg.de/index.php?id=2198" />
+      <outline type="rss" text="SWR2 Aula" xmlUrl="http://www1.swr.de/podcast/xml/swr2/aula.xml" />
+      <outline type="rss" text="1337motiv" xmlUrl="http://www.casasola.de/137b/1337motiv/1337motiv.xml" />
+      <outline type="rss" text='ZDFneo - "NEO MAGAZIN ROYALE"' xmlUrl="http://www.zdf.de/ZDFmediathek/podcast/2012868?view=podcast" />
+      <outline type="rss" text="Dan Carlin's Hardcore History" xmlUrl="http://feeds.feedburner.com/dancarlin/history?format=xml" />
+      <outline type="rss" text="The Secret Cabinet" xmlUrl="http://geheim.bellatrix.uberspace.de/?feed=cabinet" />
+      <outline type="rss" text="Hoaxilla - Der skeptische Podcast aus Hamburg" xmlUrl="http://www.hoaxilla.com/podcast/hoaxilla.xml" />
+      <outline type="rss" text="WRINT: Kombüse" xmlUrl="http://www.wrint.de/category/kombuese/feed/" />
+      <outline type="rss" text="SozioPod" xmlUrl="http://feeds.feedburner.com/soziopodaudio" />
+      <outline type="rss" text="Psychotalk" xmlUrl="http://www.psycho-talk.de/feed/m4a/" />
+      <outline type="rss" text="SWR2 1000 Antworten" xmlUrl="http://www1.swr.de/podcast/xml/swr2/1000antworten.xml" />
+      <outline type="rss" text="WRINT: Ortsgespräche" xmlUrl="http://feeds.feedburner.com/WrintOrtsgespraeche" />
+      <outline type="rss" text="anyca.st" xmlUrl="http://anyca.st/feed/aac/" />
+      <outline type="rss" text="piratte looking at things." xmlUrl="http://www.piratte.net/feed/mp3/" />
+      <outline type="rss" text="Technikwürze - Web Standards Podcast" xmlUrl="http://technikwuerze.de/feed/" />
+      <outline type="rss" text="Die drei Vogonen" xmlUrl="http://www.die-drei-vogonen.de/feed/mp3/" />
+      <outline type="rss" text="Alternativlos" xmlUrl="http://alternativlos.org/alternativlos.rss" />
+      <outline type="rss" text="Binärgewitter" xmlUrl="http://feed.binaergewitter.de/binaergewitter_mp3.xml" />
+      <outline type="rss" text="ausle.se" xmlUrl="http://ausle.se/feed/podcast/" />
+      <outline type="rss" text="WDR ZeitZeichen" xmlUrl="http://www1.wdr.de/radio/podcasts/wdr5/zeitzeichen244.podcast" />
+      <outline type="rss" text="Gretchenfrage" xmlUrl="http://www.gretchenfrage.net/feed/aac/" />
+      <outline type="rss" text="SWR2: Volkslieder" xmlUrl="http://www1.swr.de/podcast/xml/swr2/volkslieder.xml" />
+      <outline type="rss" text="neusprech.org" xmlUrl="http://neusprech.org/feed/" />
+      <outline type="rss" text="Not Safe For Work" xmlUrl="http://feeds.feedburner.com/NotSafeForWorkPodcast" />
+      <outline type="rss" text="1337@kultur:~$" xmlUrl="http://1337kultur.de/feed/podcast/" />
+      <outline type="rss" text="Leitmotiv" xmlUrl="http://feeds.feedburner.com/leitmotiv-m4a" />
+      <outline type="rss" text="SWR3-Gag des Tages | SWR3.de" xmlUrl="http://www.swr3.de/rss/SWR3-Gag_20des_20Tages/-/id=477150/did=447024/86d2j4/index.xml" />
+      <outline type="rss" text="Vorgedacht" xmlUrl="http://feeds.feedburner.com/VorgedachtPodcast" />
+      <outline type="rss" text="Der Geschichtspodcast" xmlUrl="http://chronico.de/feeds/geschichtspodcast/" />
+      <outline type="rss" text="12 Byzantine Rulers: The History of The Byzantine Empire" xmlUrl="http://12byzantinerulers.com/rss.xml" />
+      <outline type="rss" text="W wie Wissen" xmlUrl="http://www.daserste.de/podcasts/mam_dyn~id,436~w-wie-wissen.xml" />
+      <outline type="rss" text="Derby Radio – Power Jam" xmlUrl="http://radiopowerjam.de/feed/drpj/" />
+      <outline type="rss" text="ARTE Reportage als Podcast" xmlUrl="http://feeds.arte.tv/arte/de/artereportage" />
+      <outline type="rss" text="Bruno Jonas - Es geht weiter - BAYERN 3" xmlUrl="http://www.br-online.de/podcast/bruno-jonas/cast.xml" />
+      <outline type="rss" text="Forschung Aktuell - Deutschlandfunk" xmlUrl="http://www.deutschlandfunk.de/podcast-forschung-aktuell.677.de.podcast" />
+      <outline type="rss" text="WDR 5 Leonardo - Wissenschaft und mehr" xmlUrl="http://www1.wdr.de/radio/podcasts/wdr5/leonardo302.podcast" />
+      <outline type="rss" text="Norman Centuries | A Norman History Podcast by Lars Brownworth" xmlUrl="http://normancenturies.com/rss.xml" />
+      <outline type="rss" text="Raumzeit" xmlUrl="http://feeds.feedburner.com/raumzeit-podcast" />
+      <outline type="rss" text="Forschergeist" xmlUrl="http://feeds.feedburner.com/forschergeist/m4a" />
+      <outline type="rss" text="Sternengeschichten" xmlUrl="http://feeds.feedburner.com/sternengeschichten" />
+      <outline type="rss" text="SWR2 Forum" xmlUrl="http://www1.swr.de/podcast/xml/swr2/forum.xml" />
+      <outline type="rss" text="Mikrodilettanten" xmlUrl="http://mikrodilettanten.de/feed/mp3/" />
+      <outline type="rss" text="Modellansatz" xmlUrl="http://modellansatz.de/rss/" />
+      <outline type="rss" text="Methodisch inkorrekt" xmlUrl="http://feeds.feedburner.com/methodischinkorrekt" />
+      <outline type="rss" text="TEDTalks Wissenschaft und Medizin" xmlUrl="http://feeds.feedburner.com/GermanPodcastScienceAndMedicine" />
+      <outline type="rss" text="WRINT: Wissenschaft" xmlUrl="http://feeds.feedburner.com/Wrint_Wissenschaft" />
+      <outline type="rss" text="Freak Show" xmlUrl="http://feeds.feedburner.com/mobile-macs-podcast" />
+      <outline type="rss" text="quer - Bayerisches Fernsehen" xmlUrl="http://www.br-online.de/podcast/quer/cast.xml" />
+      <outline type="rss" text="Fokus Europa" xmlUrl="http://feeds.feedburner.com/fokus-europa-m4a" />
+      <outline type="rss" text="Kiezrekorder" xmlUrl="http://kiezrekorder.de/feed/mp3/" />
+      <outline type="rss" text="Black Sweet Stories" xmlUrl="http://www.blacksweetstories.com/feed/podcast/" />
+      <outline type="rss" text="Sexy Cripples" xmlUrl="http://feeds.feedburner.com/sexycripplespodcast" />
+      <outline type="rss" text="London Leben" xmlUrl="http://www.londonleben.co.uk/london_leben/atom.xml" />
+      <outline type="rss" text="Küchenessenz" xmlUrl="http://kuechenessenz.podspot.de/rss+all" />
+      <outline type="rss" text="Seefahrergeschichten" xmlUrl="http://feeds.feedburner.com/Seefahrergeschichten" />
+      <outline type="rss" text="History of Germany Podcast" xmlUrl="http://rss.acast.com/historyofgermany" />
+      <outline type="rss" text="Opa Harald erzählt" xmlUrl="http://opa-harald.de/feed/m4a" />
+      <outline type="rss" text="Stay Forever" xmlUrl="http://kaliban.podspot.de/rss" />
+      <outline type="rss" text="Geschichte und Gespräche" xmlUrl="http://geschichte-und-gespraeche.de/feed/mp3" />
+      <outline type="rss" text="Stenocast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:38128796/sounds.rss" />
+      <outline type="rss" text="Viva Britannia" xmlUrl="http://www.vivabritannia.de/feed/m4a/" />
+      <outline type="rss" text="Radio Bremen: Zeiglers wunderbare Welt des Fußballs" xmlUrl="http://www.radiobremen.de/podcast/zeigler/" />
+      <outline type="rss" text="30C3 MP4 Recordings" xmlUrl="http://hoersuppe.de/30c3recv.xml" />
+      <outline type="rss" text="DIE KLUGSCHEISSER - Bayerisches Fernsehen" xmlUrl="http://www.br-online.de/podcast/klugsch-eisser/cast.xml" />
+      <outline type="rss" text="raidenger.de » Podcast" xmlUrl="http://raidenger.de/category/podcast/feed/" />
+      <outline type="rss" text="Braincast - auf der Frequenz zwischen Geist und Gehirn" xmlUrl="http://arvid9.hipcast.com/rss/braincast.xml" />
+      <outline type="rss" text="SWR2 99 Sekunden Wissen" xmlUrl="http://www1.swr.de/podcast/xml/swr2/99sekunden.xml" />
+      <outline type="rss" text="CRE: Technik, Kultur, Gesellschaft" xmlUrl="http://feeds.feedburner.com/cre-podcast/" />
+      <outline type="rss" text="Volksaufstände" xmlUrl="http://www.bundesstiftung-aufarbeitung.de/rss/2.xml" />
+      <outline type="rss" text="Wanhoffs Wunderbare Welt der Wissenschaft" xmlUrl="http://wissenschaft.wanhoff.de/?feed=rss2" />
+      <outline type="rss" text="History Extra podcast" xmlUrl="http://feeds.feedburner.com/HistoryExtraPodcast" />
+      <outline type="rss" text="Der Explikator" xmlUrl="http://explikator.de/feed/podcast/" />
+      <outline type="rss" text="Wissen macht Ah! - zum Mitnehmen" xmlUrl="http://podcast.wdr.de/wissenmachtah.xml" />
+      <outline type="rss" text="CRE: Technik, Kultur, Gesellschaft" xmlUrl="http://feeds.feedburner.com/cre-podcast" />
+      <outline type="rss" text="Das Klangspektrum" xmlUrl="http://feedpress.me/klangspektrum" />
+      <outline type="rss" text='ZDF - "Frontal21 - Das Magazin"' xmlUrl="http://www.zdf.de/ZDFmediathek/podcast/1074856?view=podcast" />
+      <outline type="rss" text="bohemican" xmlUrl="http://rss.acast.com/bohemican" />
+      <outline type="rss" text="Das geheime Kabinett" xmlUrl="http://kabinett.hadar.uberspace.de/?feed=kabinett" />
+      <outline type="rss" text="report München - Bayerisches Fernsehen" xmlUrl="http://www.br-online.de/podcast/report-muenchen/cast.xml" />
+      <outline type="rss" text="dieanachronistin" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:128325594/sounds.rss" />
+      <outline type="rss" text="Kerbal Podcast" xmlUrl="http://kerbalpodcast.libsyn.com/rss" />
+      <outline type="rss" text="Bartocast" xmlUrl="http://bartocast.de/?feed=podcast" />
+      <outline type="rss" text="WRINT: Ferngespräche" xmlUrl="http://feeds.feedburner.com/WrintFerngespraeche" />
+      <outline type="rss" text="WDR Hörspiel-Speicher" xmlUrl="http://www1.wdr.de/radio/wdr_hoerspielspeicher150.podcast" />
+      <outline type="rss" text="Truckercast" xmlUrl="http://truckercast.de/feed/tc/" />
+      <outline type="rss" text="Vorzeiten" xmlUrl="http://feeds.feedburner.com/vorzeiten" />
+      <outline type="rss" text="Wir. Müssen Reden" xmlUrl="http://wir.muessenreden.de/feed/podcast/" />
+      <outline type="rss" text="Die Wandzeitung" xmlUrl="http://wandzeitung.staatsbuergerkun.de/wandzeitung/m4a" />
+      <outline type="rss" text="schlachthof - Bayerisches Fernsehen" xmlUrl="http://www.br-online.de/podcast/schlachthof/cast.xml" />
+      <outline type="rss" text="Tsundoku" xmlUrl="http://tsundoku-podcast.de/feed/mp4/" />
+      <outline type="rss" text="radiomono.net - Kanal RMN" xmlUrl="http://www.radiomono.net/?feed=m4a" />
+      <outline type="rss" text='ZDF - "Leschs Kosmos"' xmlUrl="http://www.zdf.de/ZDFmediathek/podcast/1193018?view=podcast" />
+      <outline type="rss" text="zwanzichfuffzehn" xmlUrl="http://feedpress.me/zwanzichfuffzehn" />
+      <outline type="rss" text="SWR2 Hörspiel" xmlUrl="http://www1.swr.de/podcast/xml/swr2/hoerspiel.xml" />
+      <outline type="rss" text="Es spricht..." xmlUrl="http://spricht.es/podcast/m4a" />
+      <outline type="rss" text="WRINT: Zum Thema" xmlUrl="http://feeds.feedburner.com/Wrint/ZumThema" />
+      <outline type="rss" text="WRINT: Politikunterricht" xmlUrl="http://www.wrint.de/category/politikunterricht/feed/" />
+      <outline type="rss" text="Culinaricast" xmlUrl="http://www.culinaricast.de/feed/podcast/" />
+      <outline type="rss" text="Zimmerfrei - zum Mitnehmen" xmlUrl="http://podcast.wdr.de/zimmerfrei.xml" />
+      <outline type="rss" text="Eingeladen" xmlUrl="http://eingeladen-feature.de/feed/m4a/" />
+      <outline type="rss" text="Staatsbürgerkunde" xmlUrl="http://www.staatsbuergerkunde-podcast.de/feed/aac-rss/" />
+      <outline type="rss" text="Die Krabitzen" xmlUrl="http://feeds.feedburner.com/DieKrabitzen" />
+      <outline type="rss" text="This Week in Germany" xmlUrl="http://feeds.feedburner.com/ThisWeekInGermany" />
+      <outline type="rss" text="Wie war der Tag, Liebling? | SWR3.de" xmlUrl="http://www.swr3.de/rss/Wie_20war_20der_20Tag,_20Liebling_3F/-/id=477150/did=477162/pv=raw/1cgcgyq/index.xml" />
+      <outline type="rss" text="WDR 5 Erlebte Geschichten" xmlUrl="http://www1.wdr.de/radio/podcasts/wdr5/erlebte_geschichten108.podcast" />
+      <outline type="rss" text="WDR 2 Kabarett" xmlUrl="http://www1.wdr.de/radio/podcasts/wdr2/kabarett132.podcast" />
+      <outline type="rss" text="SWR2 Spätvorstellung" xmlUrl="http://www1.swr.de/podcast/xml/swr2/spaetvorstellung.xml" />
+      <outline type="rss" text="Menschen hautnah - zum Mitnehmen" xmlUrl="http://podcast.wdr.de/menschenhautnah.xml" />
+      <outline type="rss" text="Weltspiegel" xmlUrl="http://www.daserste.de/podcasts/mam_dyn~id,434~weltspiegel.xml" />
+      <outline type="rss" text="das ARD radiofeature" xmlUrl="http://www.ard.de/static/radio/radiofeature/rss/podcast.xml" />
+      <outline type="rss" text="Monitor - zum Mitnehmen" xmlUrl="http://podcast.wdr.de/monitor.xml" />
+      <outline type="rss" text="SkeptoTalk" xmlUrl="http://riotburnz.podcaster.de/SkeptoTalkl.rss" />
+      <outline type="rss" text="Ringvorlesung Freiburger Büchergeschichten" xmlUrl="http://www.ub.uni-freiburg.de/fileadmin/ub/xml/itu-buechergeschichten-video.xml" />
+      <outline type="rss" text="Geschichte(n) hören" xmlUrl="http://www.bundesstiftung-aufarbeitung.de/rss/1.xml" />
+      <outline type="rss" text="Coding History (mp4)" xmlUrl="http://codinghistory.com/feed/mp4/" />
+      <outline type="rss" text="Meinungsmacher" xmlUrl="http://s3.amazonaws.com/dctp-videocast/videocast.xml" />
+      <outline type="rss" text="n00bcore" xmlUrl="http://n00bcore.de/feed/mp3/" />
+      <outline type="rss" text="Kuchenradio" xmlUrl="http://kuchenkram.com/?feed=podcast" />
+      <outline type="rss" text="WRINT: Realitätsabgleich" xmlUrl="http://feeds.feedburner.com/WrintRealitaetsabgleich" />
+      <outline type="rss" text="THADEUSZ - Videopodcast | rbb Rundfunk Berlin-Brandenburg" xmlUrl="http://www.rbb-online.de/thadeusz/videothek/sendung_im_tv_verpasst.feed.podcast.xml" />
+      <outline type="rss" text="Bundesradio" xmlUrl="http://feeds.feedburner.com/bundesradio" />
+      <outline type="rss" text="The InSnider" xmlUrl="http://podsnider.de/feed/m4a/" />
+      <outline type="rss" text="Der Benecke | radioeins" xmlUrl="http://www.radioeins.de/archiv/podcast/die_profis_benecke.feed.podcast.xml" />
+      <outline type="rss" text="WRINT: Zur Person" xmlUrl="http://feeds.feedburner.com/Wrint/ZurPerson" />
+      <outline type="rss" text="Sternstunde Philosophie" xmlUrl="http://podcastfeeds.srf.ch/sternstundephilosophie" />
+      <outline type="rss" text="Spieleveteranen » Podcast" xmlUrl="http://www.spieleveteranen.de/archives/category/podcast/feed" />
+      <outline type="rss" text="Utopia" xmlUrl="HTTP://feeds.feedburner.com/vorgedacht/utopia" />
+      <outline type="rss" text="BahnCast" xmlUrl="http://bahncast.de/feed/mp3/" />
+      <outline type="rss" text="SWR2 Wissen" xmlUrl="http://www1.swr.de/podcast/xml/swr2/wissen.xml" />
+      <outline type="rss" text='ZDF - "Die Anstalt"' xmlUrl="http://www.zdf.de/ZDFmediathek/podcast/2085930?view=podcast" />
+      <outline type="rss" text="Der Lila Podcast" xmlUrl="http://lila-podcast.de/feed/m4a/" />
+      <outline type="rss" text="Römische Geschichte im deutschen Historismus" xmlUrl="http://www.myrmedion.de/roemischegeschichtepodcast.xml" />
+      <outline type="rss" text="Ein Mops kam in die Küche" xmlUrl="http://mops.podspot.de/rss" />
+      <outline type="rss" text="ScienceBlogs Podcast - Wissenschaft zum Mitnehmen" xmlUrl="http://scienceblogs.de/wissenschaft-zum-mitnehmen/feed/" />
+      <outline type="rss" text="Panorama" xmlUrl="http://www.ndr.de/podcast/panorama286.xml" />
+      <outline type="rss" text="Andrea W. wills wissen..." xmlUrl="http://andrea.podspot.de/rss" />
+      <outline type="rss" text='ZDF - "Pelzig hält sich"' xmlUrl="http://www.zdf.de/ZDFmediathek/podcast/1261146?view=podcast" />
+    </outline>
+  </body>
+</opml>
