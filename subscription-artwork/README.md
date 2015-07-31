@@ -7,9 +7,9 @@ create dirs feeds/ and pics/
 
     cd feeds
     wget `ruby ../getFeeds.rb ../example_opml.xml`
-     cd ..
-     cd pics
-     ruby ../getArtwork.rb ../feeds/* | sort | uniq | xargs wget
+    cd ..
+    cd pics
+    ruby ../getArtwork.rb ../feeds/* | sort | uniq | xargs wget
  
 
 
