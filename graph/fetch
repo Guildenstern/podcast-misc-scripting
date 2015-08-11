@@ -1,0 +1,100 @@
+#!/bin/bash
+#
+# Podcast-Graph Creator
+#
+# CC-BY-SA 2014 Sebastian Ritterbusch (Modellansatz Podcast)
+#
+
+
+CACHE=cache
+URL=$1
+MAXDEPTH=$2
+DEPTH=$3
+
+if [ "$MAXDEPTH" == "" ]; then 
+	MAXDEPTH=4
+fi
+
+if [ "$DEPTH" == "" ]; then
+	DEPTH=1
+fi
+
+mkdir -p $CACHE
+if [ "$URL" == "" ]; then
+	URL=https://itunes.apple.com/de/podcast/modellansatz/id730593648
+fi
+
+if [ "$DEPTH" == "1" ]; then
+	echo 'digraph P {' > graph.dot
+	echo 'size="32,32";' >> graph.dot
+	echo 'overlap=false;splines=true;splines=curved;splines=compound;sep=0.3;' >> graph.dot
+fi
+
+echo $0 $URL $MAXDEPTH $DEPTH
+
+
+id=`echo $URL|cut -f7 -d/|cut -f1 -d\?`
+
+echo $id
+
+if [ "$id" == "" ]; then
+	exit 1;
+fi
+
+if [ ! -e $CACHE/$id ]; then
+	wget $URL -O $CACHE/$id
+fi
+
+NAME=`grep artwork cache/$id | grep 170 | tr " " "\n" | grep alt | cut -f2 -d\"`
+
+echo $NAME
+
+#if [ ! -e $CACHE/$id.name ]; then
+	echo $NAME > $CACHE/$id.name
+#fi
+
+IMAGEURL=`grep artwork cache/$id | grep 170 | tr " " "\n" | grep src-swap-high-dpi | cut -f2 -d\"`
+
+if [ ! -e $CACHE/$id.jpg ]; then
+	wget $IMAGEURL -O $CACHE/$id.jpg
+fi
+
+if [ "`grep $id..image graph.dot`" == "" ]; then
+	echo "$id [image=\"$CACHE/$id.jpg\", label=\" \",shape=box,imagescale=true,fixedsize=true,width=4,height=4];" >> graph.dot
+fi
+
+grep artwork $CACHE/$id |grep 100|tr " " "\n" |grep href|cut -f2 -d\" > $CACHE/$id.links
+
+cut -f7 -d/ $CACHE/$id.links|cut -f1 -d\? > $CACHE/$id.linked-ids
+
+echo Linked: 
+cat $CACHE/$id.linked-ids
+
+echo
+
+if [ $DEPTH -lt $MAXDEPTH ]; then
+	
+	for a in `cat $CACHE/$id.links`; do
+		nid=`echo $a|cut -f7 -d/|cut -f1 -d\?`
+		if [ "`grep $id....$nid graph.dot`" == "" ]; then
+			echo "$id -> $nid [penwidth=4,arrowsize=4];" >> graph.dot
+		fi
+	done
+
+	for a in `cat $CACHE/$id.links`; do
+		nid=`echo $a|cut -f7 -d/|cut -f1 -d\?`
+		./fetch $a $MAXDEPTH $(( $DEPTH + 1 ))
+	done
+
+fi
+
+if [ "$DEPTH" == "1" ]; then
+	echo "}" >> graph.dot
+	#fdp -x -Tpdf graph.dot -o graph.pdf
+	#neato -Tpdf graph.dot -o graph.pdf
+	neato -Tpng graph.dot -o graph.png
+	#neato -x -Tpng graph.dot -o graph.png
+	pngtopnm graph.png|pnmscale .5|pnmtojpeg --quality=85 --progressive > graph.jpg
+	ls -laht graph.jpg
+	#neato -x -Tpdf graph.dot -o graph.pdf
+fi
