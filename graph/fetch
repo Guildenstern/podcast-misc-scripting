@@ -21,7 +21,8 @@ fi
 
 mkdir -p $CACHE
 if [ "$URL" == "" ]; then
-	URL=https://itunes.apple.com/de/podcast/modellansatz/id730593648
+        URL=https://itunes.apple.com/de/podcast/geschichte-und-gesprache/id870834795
+#	URL=https://itunes.apple.com/de/podcast/modellansatz/id730593648
 fi
 
 if [ "$DEPTH" == "1" ]; then
