@@ -1,8 +1,11 @@
 language: ruby
 
 script:
+  - cd subscription-artwork
+  - md feeds
   - cd feeds
   - wget `ruby ../getFeeds.rb ../example_opml.xml`
   - cd ..
+  - md pics
   - cd pics
   - ruby ../getArtwork.rb ../feeds/* | sort | uniq | xargs wget
