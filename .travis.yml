@@ -8,4 +8,4 @@ script:
   - cd ..
   - mkdir pics
   - cd pics
-  - ruby ../getArtwork.rb ../feeds/* | sort | uniq | xargs wget --tries=5
+  - ruby ../getArtwork.rb ../feeds/* | sort | uniq 
