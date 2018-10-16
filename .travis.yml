@@ -4,8 +4,8 @@ script:
   - cd subscription-artwork
   - mkdir feeds
   - cd feeds
-  - wget `ruby ../getFeeds.rb ../example_opml.xml`
+  - wget --tries=5 `ruby ../getFeeds.rb ../example_opml.xml`
   - cd ..
   - mkdir pics
   - cd pics
-  - ruby ../getArtwork.rb ../feeds/* | sort | uniq | xargs wget
+  - ruby ../getArtwork.rb ../feeds/* | sort | uniq | xargs wget --tries=5
